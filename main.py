@@ -41,11 +41,34 @@ class AdjointOptimizer:
             gradient_output[i] = total_integral * self.dt
             
         return gradient_output
+    
+    #Not using r^2C0_^2 as the threshold for the error yet
+    def final_time_constraint_satisfied(self, theta_final):
+        """Checks if the final time constraint is satisfied in the H1 norm."""
+        
+        error = theta_final - Constant(self.theta_bar)
+
+        # H1 norm squared:
+        # ||e||^2 + ||grad(e)||^2
+        error_H1_sq = assemble(
+            (dot(error, error) + dot(grad(error), grad(error))) * dx
+        )
+
+        error_H1 = sqrt(error_H1_sq)
+
+        return error_H1 < 1e-4
 
     def optimize(self, initial_u, lr, max_iterations, tol=1e-4):
         """Main optimization loop."""
         u_coeffs = list(initial_u)
         
+
+        #Still need to replace this for loop with a whil eloop that goes until the following three things are satisfied
+        # 1. The final time constraint is satisfied
+        # 2. The optimality condition is satisfied (Inequality 3.6 in the paper)
+        # 3. The complementary slackness condition is satisfied   
+
+
         for i in range(max_iterations):
             print(f"\n--- Iteration {i+1} ---")
             
@@ -101,7 +124,9 @@ optimizer = AdjointOptimizer(
     theta_bar=1.0
 )
 
-# 3. Run
+# 3. Run optimization 
+#I should really just think about the initial_u as an initial guess at the coefficients to mix well, 
+# and then the optimizer will adjust them to minimize the cost function.
 final_coeffs = optimizer.optimize(
     initial_u=[1.0, 0.0, 0.0, 1.0], 
     lr=10.0, 

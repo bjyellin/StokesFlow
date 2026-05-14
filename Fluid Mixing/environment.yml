@@ -1,0 +1,11 @@
+name: fenics_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - fenics
+  - mshr  # Optional: often used with FEniCS for complex geometries
