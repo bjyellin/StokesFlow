@@ -1,0 +1,268 @@
+Final H^-1 Norm: 1.0045, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0047, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0045, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0047, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0045, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0047, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0045, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0047, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0045, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00
+Final H^-1 Norm: 1.0046, Constraint Threshold (r*C0): 0.5170, Constraint Satisfied: False, Mass Error: 0.00e+00
+Initial Mass: 1.000000, Final Mass: 1.000000, Relative Mass Error: 0.00e+00

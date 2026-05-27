@@ -16,22 +16,25 @@ def plot_forward(theta_initial, theta_curr, time_limit, iteration):
     import matplotlib.pyplot as plt
     from mpl_toolkits.axes_grid1 import make_axes_locatable
 
-    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+    if iteration % 10 == 0:
 
-    # --- Plot Initial Condition ---
-    plt.sca(axes[0]) # Set Current Axes to the first subplot
-    p0 = plot(theta_initial, title="Initial Condition ($t=0$)", cmap="viridis")
-    divider1 = make_axes_locatable(axes[0])
-    cax1 = divider1.append_axes("right", size="5%", pad=0.1)
-    plt.colorbar(p0, cax=cax1)
+        fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 
-    # --- Plot Final Condition ---
-    plt.sca(axes[1]) # Set Current Axes to the second subplot
-    pf = plot(theta_curr, title=f"Final Condition ($t={time_limit}$)", cmap="viridis")
-    divider2 = make_axes_locatable(axes[1])
-    cax2 = divider2.append_axes("right", size="5%", pad=0.1)
-    plt.colorbar(pf, cax=cax2)
+        # --- Plot Initial Condition ---
+        plt.sca(axes[0]) # Set Current Axes to the first subplot
+        p0 = plot(theta_initial, title="Initial Condition ($t=0$)", cmap="viridis")
+        divider1 = make_axes_locatable(axes[0])
+        cax1 = divider1.append_axes("right", size="5%", pad=0.1)
+        plt.colorbar(p0, cax=cax1)
 
-    plt.tight_layout()
-    
-    plt.savefig(f"Results/forward_solve_results_{iteration}.png")
+        # --- Plot Final Condition ---
+        plt.sca(axes[1]) # Set Current Axes to the second subplot
+        pf = plot(theta_curr, title=f"Final Condition ($t={time_limit}$)", cmap="viridis")
+        divider2 = make_axes_locatable(axes[1])
+        cax2 = divider2.append_axes("right", size="5%", pad=0.1)
+        plt.colorbar(pf, cax=cax2)
+
+        plt.tight_layout()
+        
+        plt.savefig(f'/Users/benjaminyellin/Desktop/BensStuff/UGA/Fluid Mixing/Results/forward_solve_results_{iteration}.png')
+        plt.close(fig)

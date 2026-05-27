@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Benjamin Yellin | Computational Mathematics</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #222;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1f3c88, #39a0ed);
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    nav {
+      background: #222;
+      padding: 12px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #39a0ed;
+    }
+
+    .container {
+      width: 85%;
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 0;
+    }
+
+    section {
+      background: white;
+      margin-bottom: 30px;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      margin-bottom: 15px;
+      color: #1f3c88;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .project {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 18px;
+      background: #39a0ed;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: 0.3s;
+    }
+
+    .button:hover {
+      background: #1f3c88;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Benjamin Yellin</h1>
+    <p>Postdoctoral Research and Teaching Fellow</p>
+    <p>University of Georgia</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am a postdoctoral research and teaching fellow 
+        at the University of Georgia, working with Weiwei Hu. 
+        I received my PhD in Computational Mathematics from Emory University in 2026, advised by Dr. Alessandro Veneziani.
+      </p>
+
+      <p>
+        My work during my PhD developed a framework connecting 
+      </p>
+    </section>
+
+    <section id="research">
+      <h2>Research Interests</h2>
+
+      <ul>
+        <li>Numerical PDEs</li>
+        <li>Advection-Dominated Problems</li>
+        <li>Physics-Informed Neural Networks (PINNs)</li>
+        <li>Advection-Dominated Flows</li>
+        <li>Spectral Theory</li>
+        <li>Parameter Estimation</li>
+        <li>Scientific Computing</li>
+        <li>Machine Learning for Physics</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+
+      <div class="project">
+        <h3>Stabilized PINN Training Pipeline</h3>
+        <p>
+          Developed a multi-stage training framework combining FEM data
+          with physics-based losses for solving PDE parameter estimation problems.
+        </p>
+      </div>
+
+      <div class="project">
+        <h3>Weak PINNs with Quadrature Integration</h3>
+        <p>
+          Implemented weak-form PINNs using quadrature rules and test functions
+          to improve numerical stability and accuracy.
+        </p>
+      </div>
+
+      <div class="project">
+        <h3>Hybrid FEM + PINN Solver</h3>
+        <p>
+          Built a hybrid computational framework that estimates material
+          parameters using neural networks and solves the governing PDE
+          with finite elements.
+        </p>
+      </div>
+    </section>
+
+    <section id="skills">
+      <h2>Technical Skills</h2>
+
+      <ul>
+        <li>Python</li>
+        <li>PyTorch</li>
+        <li>FEniCS</li>
+        <li>NumPy / SciPy</li>
+        <li>MATLAB</li>
+        <li>Finite Element Analysis</li>
+        <li>Machine Learning</li>
+        <li>Scientific Visualization</li>
+        <li>LaTeX</li>
+        <li>HTML / CSS</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+
+      <p>Email: benjamin@example.com</p>
+      <p>LinkedIn: linkedin.com/in/yourprofile</p>
+      <p>GitHub: github.com/yourgithub</p>
+
+      <a class="button" href="mailto:benjamin@example.com">
+        Contact Me
+      </a>
+    </section>
+
+  </div>
+
+  <footer>
+    <p>© 2026 Benjamin Yellin | Computational Mathematics</p>
+  </footer>
+
+</body>
+</html>
