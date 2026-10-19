@@ -1,0 +1,9 @@
+
+numpy
+mpi4py
+petsc4py
+fenics-basix
+fenics-ufl
+fenics-dolfinx
+pyvista
+matplotlib
